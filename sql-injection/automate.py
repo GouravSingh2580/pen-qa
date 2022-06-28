@@ -18,3 +18,4 @@ r=requests.get(URL%query)
 print(r.text)
 print(r.status_code)
         
+# also sqlmap much simpler
